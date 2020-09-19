@@ -1,0 +1,11 @@
+blessings==1.7
+click==7.1.2
+curtsies==0.3.4
+enquiries==0.1.0
+joblib==0.16.0
+nltk==3.5
+pkg-resources==0.0.0
+regex==2020.7.14
+six==1.15.0
+tqdm==4.49.0
+wcwidth==0.2.5
